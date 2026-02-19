@@ -1,0 +1,10 @@
+{
+  "name": "cero-tetris",
+  "version": "1.0.0",
+  "description": "Small wrapper to run the Python Tetris game",
+  "scripts": {
+    "start": "python tetris.py"
+  },
+  "author": "sanniv01",
+  "license": "MIT"
+}
